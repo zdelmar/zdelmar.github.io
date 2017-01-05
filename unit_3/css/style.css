@@ -1,0 +1,27 @@
+
+
+body {
+
+  background: url("../images/solar.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+	color: #3B5323;
+	font-family: helvetica;
+}
+
+h1, p {color: #3B5323;
+	font-weight: bold;
+}
+
+
+#slogan {
+	font-style: italic;
+}
+
+#mailto	{
+	text-decoration: none;
+}
+
+*	{
+	padding: 0;
+}
