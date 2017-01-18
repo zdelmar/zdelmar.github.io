@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:700|Taviraj');
+
+body, main {
+
+  background: url("../images/solar.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+	color: #3B5323;
+	font-family: 'Taviraj', serif;
+}
+
+h1	{
+	color: #3B5323;
+	font-weight: bold;
+	font-family: 'Maven Pro', sans-serif;
+
+}
+
+p {color: #3B5323;
+	font-weight: bold;
+	font-family: 'Taviraj', serif;
+	line-height: 1.5em;
+
+}
+
+.navbar {
+	text-decoration: none;
+}
+
+#slogan {
+	font-style: italic;
+	font-family: 'Taviraj', serif;
+	text-transform: uppercase;
+}
+
+#mailto	{
+	text-decoration: none;
+}
+
+*	{
+	padding: 0;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
