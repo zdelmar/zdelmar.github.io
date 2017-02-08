@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro:700|Taviraj');
+
+body, main {
+
+  background: url("../images/solar.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+	font-family: 'Taviraj', serif;
+}
+
+h1	{
+	color: #3B5323;
+	font-weight: bold;
+	font-family: 'Maven Pro', sans-serif;
+	text-transform: uppercase;
+
+}
+
+p {color: #3B5323;
+	font-weight: bold;
+	font-family: 'Taviraj', serif;
+	line-height: 1.5em;
+
+}
+
+.navbar {
+	text-decoration: none;
+}
+
+#slogan {
+	font-style: italic;
+	font-family: 'Taviraj', serif;
+
+}
+
+#mailto	{
+	text-decoration: none;
+}
+
+*	{
+	padding: 0;
+}
+
+header {
+	padding: 20px;
+}
+
+nav {
+   text-align: left;
+   padding: 20px;
+
+}
+
+a:hover 	{
+
+	text-decoration: underline;
+}
+
+article {
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+
+    padding: 20px;
+}
+
+section {
+      padding: 20px;
+}
+
+
+#three_column	{
+    padding: 20px;
+}
+
+  #left	{
+  	background-color: #9DB68C;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 25%;
+
+  	}
+
+ 	#middle	{
+	background-color: #9DB68C;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 25%;
+
+  	}
+
+  	#right	{
+	background-color: #9DB68C;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 25%;
+
+  	}
+
+  .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
